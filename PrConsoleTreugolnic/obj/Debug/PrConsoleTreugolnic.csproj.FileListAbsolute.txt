@@ -1,0 +1,8 @@
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\bin\Debug\PrConsoleTreugolnic.exe.config
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\bin\Debug\PrConsoleTreugolnic.exe
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\bin\Debug\PrConsoleTreugolnic.pdb
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\obj\Debug\PrConsoleTreugolnic.csproj.AssemblyReference.cache
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\obj\Debug\PrConsoleTreugolnic.csproj.SuggestedBindingRedirects.cache
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\obj\Debug\PrConsoleTreugolnic.csproj.CoreCompileInputs.cache
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\obj\Debug\PrConsoleTreugolnic.exe
+D:\IS-32\Parada\PrConsoleTreugolnic\PrConsoleTreugolnic\obj\Debug\PrConsoleTreugolnic.pdb

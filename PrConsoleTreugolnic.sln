@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrConsoleTreugolnic", "PrConsoleTreugolnic\PrConsoleTreugolnic.csproj", "{E5327B4A-855A-4841-8A7C-8E5754021805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrConsoleTreugolnicTests", "PrConsoleTreugolnicTests\PrConsoleTreugolnicTests.csproj", "{A36E5FF8-92AB-4D70-B9A9-382B37237B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5327B4A-855A-4841-8A7C-8E5754021805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5327B4A-855A-4841-8A7C-8E5754021805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5327B4A-855A-4841-8A7C-8E5754021805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5327B4A-855A-4841-8A7C-8E5754021805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36E5FF8-92AB-4D70-B9A9-382B37237B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36E5FF8-92AB-4D70-B9A9-382B37237B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36E5FF8-92AB-4D70-B9A9-382B37237B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36E5FF8-92AB-4D70-B9A9-382B37237B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E785B1-77FD-4A47-99F6-34B21FAA6142}
+	EndGlobalSection
+EndGlobal
